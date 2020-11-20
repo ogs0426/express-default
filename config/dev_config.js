@@ -1,0 +1,1 @@
+exports.db_url = 'mongodb://username:password@your-mongo-host.com/database-name';
